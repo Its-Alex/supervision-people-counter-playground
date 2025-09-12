@@ -1,0 +1,11 @@
+# Ignore python environment
+**/.venv
+
+# Ignore models
+*.pt
+
+# Ignore movies
+*.mp4
+*.avi
+*.mov
+*.mkv
